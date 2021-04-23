@@ -1,0 +1,24 @@
+{
+  "name": "digtalmarketing",
+  "version": "1.0.0",
+  "description": "Digital Marketing Tools and SAAS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james12342/DigtalMarketing.git"
+  },
+  "keywords": [
+    "SAAS",
+    "Digital",
+    "Marketing"
+  ],
+  "author": "James and Feng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/james12342/DigtalMarketing/issues"
+  },
+  "homepage": "https://github.com/james12342/DigtalMarketing#readme"
+}
